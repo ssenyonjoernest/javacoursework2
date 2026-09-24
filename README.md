@@ -6,7 +6,7 @@ This repository contains the seven Java programs completed for **ICT2104B — Ob
 
 ## Files Included
 
-1. **ExamEligibility.java** — Determines a student's exam eligibility based on their attendance percentage.
+1. **exameligibility.java** — Determines a student's exam eligibility based on their attendance percentage.
 2. **MobileMoneyMenuLoop.java** — Implements a repeating Mobile Money menu using `switch` and `do-while`.
 3. **BodaFareTable.java** — Calculates and displays boda-boda fares for different distances using a `for` loop.
 4. **PinValidator.java** — Validates a four-digit Mobile Money PIN using input validation and a `while` loop.
@@ -35,16 +35,16 @@ Make sure **Java JDK** is installed on your computer.
 Open the terminal in the project folder and compile a file using:
 
 ```bash
-javac ExamEligibility.java
+javac exameligibility.java
 ```
 
 Then run it using:
 
 ```bash
-java ExamEligibility
+java exameligibility
 ```
 
-Replace `ExamEligibility` with the name of any other Java file you want to run.
+Replace `exameligibility` with the name of any other Java file you want to run.
 
 ### Example
 
